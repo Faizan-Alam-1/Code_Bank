@@ -3,7 +3,7 @@ using namespace std;
 int main()
 
 {
-                       /* Here We Assume Below Array is Database of real Bank   */
+                       /* Here We assuming Below Array is Database of real Bank   */
 
     //                     *******      | Bank DataBase |  **********
 
